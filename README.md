@@ -26,7 +26,7 @@ This is a simple web project that fetches random dog images using the Dog CEO AP
 - app.js  
 - README.md  
 
-## 🌐 API Used
+##  API Used
 https://dog.ceo/api/breeds/image/random
 
 ##  Author
